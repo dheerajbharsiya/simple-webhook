@@ -1,0 +1,21 @@
+{
+  "name": "webhook_example",
+  "version": "1.0.0",
+  "description": "To understand what webhooks are",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "webhook",
+    "simple",
+    "dheerajbharsiya",
+    "dheerajbharsiya@gmail.com"
+  ],
+  "author": "Dheeraj Bharsiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "body-parser": "^1.18.2"
+  }
+}
